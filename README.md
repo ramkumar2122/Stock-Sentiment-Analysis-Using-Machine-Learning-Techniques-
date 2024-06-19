@@ -14,5 +14,8 @@ Trained and evaluate machine learning models, including classification algorithm
 
 Performed model evaluation using appropriate metrics, such as accuracy, precision, recall, F1-score, and receiver operating characteristic (ROC) curve analysis, to assess the performance of the sentiment analysis model.
 
+For judging the performance - Sharpe ratio, Maximum drawdowns, number of trades executed and win ratio are done.
+
+Discrribed buy and sell points according to the sentiment, and plotted them in a chart and calculated the final portfolio and returns.
 
 
